@@ -22,7 +22,7 @@ const pythonScript = async (req, res, next) => {
     exec(
       runPython(req.file.filename),
       {
-        cwd: 'C:\\Users\\Mahrous\\Desktop\\مشروع العصبونية\\server\\python\\src'
+        cwd: path.join(__dirname, '..', '..', '..', '/python/src')
       },
       () => {
         next();
