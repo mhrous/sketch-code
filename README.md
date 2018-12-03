@@ -1,5 +1,7 @@
 # SketchCode
 
-Generating HTML Code from a hand-drawn wireframe\*
+Generating HTML Code from a hand-drawn wireframe
 
-this project is fork from [GitHub](https://github.com/ashnkumar/sketch-code)
+###This project is fork from [Ashwin Kumar](https://github.com/ashnkumar/sketch-code)
+
+Please view and download weights at the right place within Python Server to work well
